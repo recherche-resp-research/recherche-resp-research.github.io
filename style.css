@@ -1,0 +1,146 @@
+
+
+
+body
+{background-color: white;
+margin: 0;
+padding: 0;
+overflow-x: hidden;}
+
+#rectangle
+{display: flex;
+flex-direction: column;
+justify-content: space-between;
+width: 100%;
+margin: 0;}
+
+#corps
+{display: flex;
+flex-direction: column;
+justify-content: space-between;
+max-width: 700px;
+margin: 3% 6% 3% 6%;
+font-family: helvetica, sans-serif;
+font-size: 1.1em;}
+
+#photo-box
+{display: flex;
+flex-direction: row;
+width: 100%;
+margin: 0;
+padding:0;
+}
+
+#photo
+{width: 25%;
+margin: 0 2% 0 0;
+}
+
+#photo-txt
+{width: 75%;
+margin: 0;
+padding: 0;
+}
+
+nav
+{background-image: url(avion.jpg);
+background-size: cover;
+display: flex;
+flex-direction: column;
+color: white;
+padding: 3% 2% 4% 6%;}
+
+nav h1
+{font-family: 'palatino linotype', palatino, serif;
+font-size: 3em;
+font-weight: 900;
+margin:0;
+padding: 3px 0 0 0;}
+
+nav h2
+{margin:0;
+padding: 1px;
+font-family: 'palatino linotype', palatino, serif;
+font-weight: 300;
+font-size: 1.4em;}
+
+nav h3
+{list-style-type: none;
+margin:0;
+padding: 1px 1px 15px 1px;
+font-family: helvetica, sans-serif;
+font-size: 1em;
+font-weight: 1500}
+
+nav h4
+{margin:0;
+padding: 0 0 15px 0;
+font-family: helvetica, sans-serif;
+font-size: 1.6em;
+font-weight: 300}
+
+#corps h2
+{margin: 70px 0 0 0;
+padding: 30px 0 10px 0;
+border-style: solid none none none;
+border-width: 1px;
+font-family: 'palatino linotype', palatino, serif;
+font-size: 2.5em;
+font-weight: 900}
+
+#corps h3
+{margin:0;
+padding: 25px 0 5px 0;
+font-size: 1.1em;
+font-weight: 900;
+text-transform: uppercase;}
+
+#corps h4
+{margin:0;
+padding: 5px 0 5px 0;
+font-size: 1em;
+font-weight: 900}
+
+nav a:link
+{color: inherit;
+text-decoration: none}
+
+nav a:hover
+{text-decoration: underline;}
+
+nav a:visited
+{color: inherit;}
+
+img
+{display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+table
+{padding: 10px 0 0 0;
+}
+
+figcaption
+{font-family: helvetica, sans-serif;
+font-size: 0.9em;
+margin-top: 1%;}
+
+.credit
+{font-family: helvetica, sans-serif;
+font-size: 0.9em;
+text-align: center;
+color: #888888;}
+
+.column {
+  float: left;
+  width: 45%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
