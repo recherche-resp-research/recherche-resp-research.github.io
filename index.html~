@@ -17,7 +17,7 @@
 	<h3><a href='index-eng.html'>ENG/FR</a></h3>
 	<h2><a href='#Informations'>Informations</a></h2>
 	<h2><a href='#engagement'>Signez l'engagement</a></h2>
-	<h2><a href='#presentation'>Présentation dans votre département</a></h2>
+	<h2><a href='#presentation'>Évènements</a></h2>
 	<h2><a href='#qui'>Qui sommes-nous</a></h2>
 </nav>
 
@@ -140,10 +140,34 @@
 	<p><a href="https://docs.google.com/spreadsheets/d/1vUXKdQ-ZYmzXNQBZCGpR6wfpqFgQfo_fEoQV3KLH170/edit?usp=sharing" target="_blank">Consulter la liste des signataires</a>. Pour voir la liste complète, parcourez les divers onglets situés au bas de la page.</p>
 
 	<a name="presentation"></a>
-	<h2>Présentation dans votre département</h2>
+	<h2>Évènements</h2>
+	<h3>Présentation dans votre département</h3>
 	<p>Notre principal outil de sensibilisation sont des présentations dans divers départements, devant professeurs et étudiants. La présentation est d'environ 30 minutes, suivie par une période de discussion avec le public toujours fort intéressante. Elle vise à informer l'auditoire sur les données et les diverses études sur le sujet.</p>
 	<p>Nous avons déjà réalisé cette présentation dans de nombreux départements dans diverses universités montréalaises.</p>
 	<p>Il nous ferait grand plaisir de venir présenter dans votre département, association étudiante ou regroupement de recherche! <a href="mailto:mathilde.jutras@mail.mcgill.ca">Contactez-nous</a></p>
+
+	<h3>Évènements passés et à venir</h3>
+	<h4>Évènements à venir</h4>
+	<p>
+		<ul>
+			<li> Institut des sciences de l'environnement (ISQ) de l'UQAM, 20 février 2020. Lieu et heure à déterminer.</li>
+			<li> Geotop, UQAM, 22 janvier 2020. 12:00, PK-7605.</li>
+		</ul>
+	</p>
+	<h4>Évènements passés</h4>
+	<p>
+		<ul>
+			<li> Département de physique, Université de Montréal, 17 janvier 2020.</li>
+			<li> Loyola Sustainability Research Center, Concordia University, 10 janvier 2020.</li>
+			<li> CIRAIG, Polytechnique Montréal, 9 janvier 2020.</li>
+			<li> Département d'anthropologie, Université de Montréal, 12 décembre 2019.</li>
+			<li> Département de géographie, Université de Montréal, 29 octobre 2019.</li>
+			<li> Earth and Planetary Sciences department, McGill University, 22 octobre 2019.</li>
+			<li> Atmospheric and Oceanic Sciences department, McGill University, 18 octobre 2019.</li>
+		</ul>
+	</p>
+			
+	
 
 	<a name="qui"></a>
 	<h2>Qui sommes-nous</h2>
@@ -155,7 +179,7 @@
 			<img src="photoMJ.jpeg" alt="Mathilde Jutras" style="width:95%" align="left"/>
 		</div> <!-- photo -->
 		<div id=photo-txt>
-			Après un baccalauréat en physique à l'Université de Montréal, je me suis intéressée à l'application de mes connaissances aux question environnementales. J'ai fait une maîtrise en sciences climatiques à l'Université McGill, sur la dynamique de la glace dans l'Arctique. À  la recherche de solutions plus concrètes, j'ai ensuite migré vers les sciences sociales. J'ai fait de la recherche en gouvernance environnementale à l'École nationale d'administration publique à Montréal. Finalement, mon amour des sciences et de la nature m'a ramené vers les sciences naturelles, et j'ai entamé en 2018 un doctorat en océanographie physique et chimique à l'Université McGill, sur la désoxygénation du Saint-Laurent.
+			Après un baccalauréat en physique à l'Université de Montréal, je me suis intéressée à l'application de mes connaissances aux questions environnementales. J'ai fait une maîtrise en sciences climatiques à l'Université McGill, sur la dynamique de la glace dans l'Arctique. À  la recherche de solutions plus concrètes, j'ai ensuite migré vers les sciences sociales. J'ai fait de la recherche en gouvernance environnementale à l'École nationale d'administration publique à Montréal. Finalement, mon amour des sciences et de la nature m'a ramené vers les sciences naturelles, et j'ai entamé en 2018 un doctorat en océanographie physique et chimique à l'Université McGill, sur la désoxygénation du Saint-Laurent.
 Lors de mes recherches sur l'impact du voyagement des universitaires, j'ai fait la connaissance de Julien, qui avait mené une étude sur ce sujet à l'Université de Montréal.
 		</div> <!-- photo-txt -->
 	</div> <!-- photo-txt -->
